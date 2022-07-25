@@ -16,3 +16,11 @@ right strategies to foster and maintain relationship with them.
 
 # Over-view of Book Recommender System built under this project:
 <img width="684" alt="image" src="https://user-images.githubusercontent.com/100269915/180019627-dee1f241-f6de-450b-b9d0-16b3af3e6b95.png">
+
+# Conclusions:
+1. Majority of readers are from USA, followed by Canada.
+2. The average of ratings given by Kids was the highest, followed by seniors; On average, rating given by readers from Spain & France were the highest.
+3. For new users, built global popularity based recommender systems.
+4. For registered users with no rating history, built demographics based popularity recommender systems.
+5. For users with ratings history, built collaborative, content based and hybrid recommender systems.
+5. For this dataset, Content-based recommender has the highest catalogue coverage for all N (as, ~43% for N=10), while Hybrid recommender system has the highest MAP@N for all N (as, MAP@10 = 2.43%).
