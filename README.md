@@ -12,7 +12,7 @@ The datasets are from bookcrossing.com, a free online book club which was founde
 1. Increases Revenue by directing the items and sales offers to specific users, and thus increasing the likelihood of selling items.
 2. Increases Customer retention: It helps business in understanding the needs of customers & eventually, in devising the
 right strategies to foster and maintain relationship with them.
-3. Makes User’s life easier by handling a large amount of information and by provide them with personalized, exclusive content and service recommendations, which further leads to customer satisfaction
+3. Makes User’s life easier by handling a large amount of information and by providing them with personalized, exclusive content and service recommendations, which further leads to customer satisfaction.
 
 # Over-view of Book Recommender System built under this project:
 <img width="684" alt="image" src="https://user-images.githubusercontent.com/100269915/180019627-dee1f241-f6de-450b-b9d0-16b3af3e6b95.png">
